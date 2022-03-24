@@ -1,9 +1,12 @@
 # Yorumoto
-I am a guy that kinda likes git and vim.
+I am a guy that kinda likes git and vim. And yes, I'm one of these guys who use StackOverflow. (bruh)
+
+Welcome to my profile, on what I added on random bullshit just for an unfunny attempt on humor.
 
 ## Kinda proud at:
 - Having a sus profile picture (you can't unsee it now)
 - NVIM and Rojo integrated *"Who uses Command Prompt to make a Roblox game?!"*
+- Unfunny commit messages
 - idk i'm out of possessions that i can think of
 
 ## Ey, what projects do you make:
@@ -14,6 +17,11 @@ I am a guy that kinda likes git and vim.
 
 ## Are you cool?
 yes
+
+## Do you code in one of the members of the C family?
+i only touched the syntax :pensive:
+
+never made a project, i wished i did :sob:
 
 ## Do you wanna make malware relating to the Ukraine crisis shoved into one of your popular projects... And then getting up in jail?
 ~~yes~~ **no**
