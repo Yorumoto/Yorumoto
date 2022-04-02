@@ -14,14 +14,18 @@ Welcome to my profile, on what I added on random bullshit just for an unfunny at
 - LOVE2D Games
 - Sometimes, Javascript Games
 - Maybe soon, Roblox Plugins and Modules
+- SFML and C++ random stuff
 
 ## Are you cool?
 yes
 
-## Do you code in one of the members of the C family?
-i only touched the syntax :pensive:
+## Why?
+i use vim :thumbsup:
 
-never made a project, i wished i did :sob:
+## Do you code in one of the members of the C family?
+~~i only touched the syntax :pensive:~~
+~~never made a project, i wished i did :sob:~~
+NVIM I HAVE ONE, JUST STARTED DOING C++ AGAIN
 
 ## Do you wanna make malware relating to the Ukraine crisis shoved into one of your popular projects... And then getting up in jail?
 ~~yes~~ **no**
