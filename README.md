@@ -5,7 +5,7 @@ Welcome to my profile, on what I added on random bullshit just for an unfunny at
 
 ## Kinda proud at:
 - Having a sus profile picture (you can't unsee it now)
-- NVIM and Rojo integrated *"Who uses Command Prompt to make a Roblox game?!"*
+- (Linux and) NVIM and Rojo integrated *"Who uses Command Prompt to make a Roblox game?!"*
 - Unfunny commit messages
 - idk i'm out of possessions that i can think of
 
@@ -29,6 +29,8 @@ NVIM I HAVE ONE, JUST STARTED DOING C++ AGAIN
 
 ## Do you wanna make malware relating to the Ukraine crisis shoved into one of your popular projects... And then getting up in jail?
 ~~yes~~ **no**
+
+#### Whether you use Vim, Visual Studio, or an IDE, just get that shit done.
 
 vim for life :thumbsup:
 
